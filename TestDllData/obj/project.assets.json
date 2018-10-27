@@ -3447,11 +3447,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\TestDllData\\TestDllData.csproj",
+      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\Barcamp\\TestDllData\\TestDllData.csproj",
       "projectName": "TestDllData",
-      "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\TestDllData\\TestDllData.csproj",
+      "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\TestDllData\\TestDllData.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\TestDllData\\obj\\",
+      "outputPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\TestDllData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3470,8 +3470,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             }
           }
         }

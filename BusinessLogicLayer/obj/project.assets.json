@@ -3429,11 +3429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "projectName": "BusinessLogicLayer",
-      "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+      "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\obj\\",
+      "outputPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3452,8 +3452,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\DataAccesLayer\\DataAccesLayer.csproj": {
-              "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\DataAccesLayer\\DataAccesLayer.csproj"
+            "C:\\Users\\emanu\\source\\repos\\Barcamp\\DataAccesLayer\\DataAccesLayer.csproj": {
+              "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\DataAccesLayer\\DataAccesLayer.csproj"
             }
           }
         }

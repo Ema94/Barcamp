@@ -3554,11 +3554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\DataAccesLayer\\DataAccesLayer.csproj",
+      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\Barcamp\\DataAccesLayer\\DataAccesLayer.csproj",
       "projectName": "DataAccesLayer",
-      "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\DataAccesLayer\\DataAccesLayer.csproj",
+      "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\DataAccesLayer\\DataAccesLayer.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\DataAccesLayer\\obj\\",
+      "outputPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\DataAccesLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

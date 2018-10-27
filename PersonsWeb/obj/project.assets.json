@@ -12262,11 +12262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\PersonsWeb\\PersonsWeb.csproj",
+      "projectUniqueName": "C:\\Users\\emanu\\source\\repos\\Barcamp\\PersonsWeb\\PersonsWeb.csproj",
       "projectName": "PersonsWeb",
-      "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\PersonsWeb\\PersonsWeb.csproj",
+      "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\PersonsWeb\\PersonsWeb.csproj",
       "packagesPath": "C:\\Users\\emanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\PersonsWeb\\obj\\",
+      "outputPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\PersonsWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12285,8 +12285,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
-              "projectPath": "C:\\Users\\emanu\\source\\repos\\DataAccesLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
+            "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\BusinessLogicLayer.csproj": {
+              "projectPath": "C:\\Users\\emanu\\source\\repos\\Barcamp\\BusinessLogicLayer\\BusinessLogicLayer.csproj"
             }
           }
         }
