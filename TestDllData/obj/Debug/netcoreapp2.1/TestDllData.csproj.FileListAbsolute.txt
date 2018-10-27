@@ -1,0 +1,16 @@
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\TestDllData.deps.json
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\TestDllData.runtimeconfig.json
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\TestDllData.runtimeconfig.dev.json
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\TestDllData.dll
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\TestDllData.pdb
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\DataAccesLayer.dll
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\DataAccesLayer.pdb
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.csprojAssemblyReference.cache
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.AssemblyInfoInputs.cache
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.AssemblyInfo.cs
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.csproj.CopyComplete
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.dll
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\obj\Debug\netcoreapp2.1\TestDllData.pdb
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\BusinessLogicLayer.dll
+C:\Users\emanu\source\repos\DataAccesLayer\TestDllData\bin\Debug\netcoreapp2.1\BusinessLogicLayer.pdb
